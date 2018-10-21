@@ -1,0 +1,33 @@
+#... Filtro 1
+
+Campos = Vermelho,
+         Roncador,
+         Bicudo,
+         Albacora Leste,
+         Piranema,
+         Tubarão Martelo
+
+Categoria != Pioneiro
+
+Situação = Produzindo
+
+Teste de Formação = Existe
+
+#... Filtro 2
+
+Tipo = Explotatório
+
+Categoria = Desenvolvimento
+
+Teste de Formação = Existe
+
+#... Filtro 3
+
+Tipo = Explotatório
+
+Situação = Produzindo
+
+Categoria = Desenvolvimento
+
+(Teste de Formação = Existe OU Testemunho = Existe)
+
