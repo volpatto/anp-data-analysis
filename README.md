@@ -12,7 +12,7 @@ The georeferencing data is sited in "Campos" dir. There you can find `.shp` file
 
 ## Where is the analysis?
 
-You can find what we are doing in the `eda.ipynb` sited in "notebook" dir. Check it out! That notebook was used as a base to the
+You can find what we are doing in the `eda_anp_presentation_pyBR14.ipynb` sited in "notebook" dir. Check it out! That notebook was used as a base to the
 presentation Diego did at [Python Brasil[14]](https://2018.pythonbrasil.org.br/), the biggest brazilian Python conference.
 
 To enjoy the best, download the `.ipynb` and run locally in your computer (instructions below).
