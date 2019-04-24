@@ -1,7 +1,6 @@
 name: eda-anp
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - altair
   - folium
@@ -9,16 +8,17 @@ dependencies:
   - geopy
   - notebook
   - openpyxl
-  - python
+  - python=3.6
   - seaborn
   - statsmodels
   - jupyter
-  - jupyterlab
   - jupyter_contrib_nbextensions
   - vega
+  - vega3
   - vega_datasets
   - matplotlib
   - numpy
   - pandas
   - scipy
   - xlrd
+  - rise
